@@ -1,0 +1,4 @@
+To run this use the sbt script included and just execute:
+./sbt run
+
+It should deal with all the necessary dependencies, but may mean that the first run will take a while as it completely bootstraps from nothing.
